@@ -17,3 +17,4 @@ Welcome to GymRats design. This repository serves as the staging area for future
 <img src=".gitlab/11.png">
 <img src=".gitlab/11.png">
 <img src=".gitlab/12.png">
+<img src=".gitlab/site.png">

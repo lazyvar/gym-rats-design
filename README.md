@@ -19,3 +19,4 @@ Welcome to GymRats design. This repository serves as the staging area for future
 <img src=".gitlab/site.png">
 <img src=".gitlab/watch.png">
 <img src=".gitlab/profile.png">
+<img src=".gitlab/log-workout.png">
